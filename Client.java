@@ -1,9 +1,8 @@
 
 /**
- * @author shridhar
- * Name-Shridhar Kevati
- * Student Id- 999992831
- * Computer Network Assignment
+ * Name-Vinod kumar meesala
+ * Student Id- 1002039860
+ * Computer Network project1
  *
  */
 //Import Required Packages
